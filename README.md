@@ -8,5 +8,5 @@
 ---
 
 <p align="center">
-    <a href="https://discord.gg/VHtvszBAx3"><img src="https://img.shields.io/badge/-pirxcy~_5150-FF008F?style=flat"/></a>
+    <a href="https://discord.gg/VHtvszBAx3"><img src="https://img.shields.io/badge/-pirxcy"/></a>
 </p>
