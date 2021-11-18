@@ -1,3 +1,5 @@
+<div align="center">
+![Discord](https://discord.c99.nl/widget/theme-3/733302490753269852.png)
 
 #### Languages
 + ![HTML](https://img.shields.io/badge/-HTML-FF008F)
